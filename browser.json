@@ -1,0 +1,11 @@
+{
+  "browsers":[
+              {
+                "os": "Windows",
+                "os_version": "7",
+                "browser_version": "8.0",
+                "browser": "ie"
+              }
+            ],
+  "wait_time": 60
+}
